@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - KhelassiHub
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - KhelassiHub/KhelassiHub.github.io
+  - KhelassiHub/Ubuntu-setup-script
+  - KhelassiHub/Project-Euler
+  - KhelassiHub/Huffman-Text-compression-algorithm
