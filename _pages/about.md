@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at <a href='[#](https://siteigm.univ-mlv.fr/home/)'>LIGM</a>.
 
 profile:
   align: right
