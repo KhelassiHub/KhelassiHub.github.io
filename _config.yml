@@ -450,7 +450,7 @@ vega-lite:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: assets/json/resume
+  - data: resume
   json: assets/json/resume.json # it can also be an url
     
 jsonresume:
