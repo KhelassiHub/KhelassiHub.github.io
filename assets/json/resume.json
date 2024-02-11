@@ -14,56 +14,43 @@
       "countryCode": "FR",
       "region": "Ile de France"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Institut national de recherche en sciences et technologies du numérique INRIA, Paris",
+      "position": "Research intern",
+      "url": "https://www.inria.fr/en/kopernic",
+      "startDate": "2021-03-01",
+      "endDate": "2021-09-30",
+      "summary": "- Use of statistical methods to assess the impact of the ARM cortex A53 processor architecture on program execution times \n- Propose a set of (benchmark) programs that target certain processor characteristics (Data cache L1, cache L2, etc.) and generate a set of representative execution times"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Gustave Eiffel, France",
+      "location": "Champs sur marne, France",
+      "url": "https://www.univ-gustave-eiffel.fr/",
+      "area": "Computer science, real-time systems, variability of execution times",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "startDate": "2021-10-01",
+      "endDate": "2024-12"
+    },
+        {
+      "institution": "University of Paris Saclay, France",
+      "location": "Orsay, France",
+      "url": "https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-systemes-embarques-et-traitement-de-linformation",
+      "area": "Embedded systems and information processing",
+      "studyType": "Master's degree",
+      "startDate": "2019-09-01",
+      "endDate": "2021-09-01"
+    },
+        {
+      "institution": "Ecole Nationale Supèrieure de Technologie Avancées (ENSTA ex ENST), Algeria",
+      "location": "Alger, Algeria",
+      "url": "https://ensta.edu.dz/",
+      "area": "Electrical engineering and industrial computer science",
+      "studyType": "Bachelor degree",
+      "startDate": "2015-09-01",
+      "endDate": "2018-07-30"
     }
   ],
   "certificates": [
@@ -128,8 +115,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Real-time systems",
-        "Quantum Computing",
-        "Quantum Teleportation"
+        "Scheduling algorithms"
       ]
     }
   ],
