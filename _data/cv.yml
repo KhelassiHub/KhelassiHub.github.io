@@ -45,12 +45,6 @@
     - title: Execution time budget assignment for mixed criticality systems
     institution: 10th International Workshop on Mixed Criticality Systems at the Real Time Systems Symposium (RTSS 2023)
       year: 2023
-      
-- title: References
-  type: time_table
-  contents:
-    - title: Professor Eva Dokladalova and Dr Yasmina Abdeddaim
-    institution: ESIEE Paris, France
 
 - title: Academic Interests
   type: nested_list
