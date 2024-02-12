@@ -459,6 +459,8 @@ jsonresume:
   - education
   - publications
   - projects
+  - volunteer
+  - certificates
   - skills
   - languages
   - interests
